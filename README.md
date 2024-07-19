@@ -5,7 +5,6 @@
 A better visualization of different algorithms made with React. 
 
 
-This is made to be the second version of my previous pathfinding project made with C++ igraphics. But then added some more visualizations too.  
 
 So far there are 6 segments  
 - Pathfinder
@@ -52,12 +51,7 @@ I have implemented a total of `24 algorithms` so far. And will try to add more l
 
 
 
-I am not sure if anyone would like to contribute to this project or not. But any kind of contributions are welcomes. Also if you like this please star this repo. It keeps me motivated.
 
-### Special Features addition timeline
-
-- Commit 16: Added Flip Move animation to inplace sorting components
-- Commit 20: Added Tree Structure
 
 ### Acknowledgement
 
